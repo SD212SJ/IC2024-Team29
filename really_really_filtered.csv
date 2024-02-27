@@ -1,0 +1,781 @@
+food_category_id,FF Food description,SR Food description,Unit,SR Mean per 100g,FF Mean per 100g
+12,"Vitamin A, RAE","Vitamin A, RAE",G,0,0.000002
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.0005,0.000241
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000006,0.000004
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000262,0.000228
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000317,0.0003
+12,"Vitamin A, RAE","Vitamin A, RAE",G,0,0.000001
+2,"Vitamin A, RAE","Vitamin A, RAE",G,0.000005,0.000004
+9,"Vitamin A, RAE","Vitamin A, RAE",G,0.000004,0.000004
+9,"Vitamin A, RAE","Vitamin A, RAE",G,0.000017,0.000021
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00033,0.000316
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000068,0.000069
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000223,0.000203
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000001,0.000001
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0,0
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00012,0.000127
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000058,0.000058
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000061,0.000064
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000055,0.000083
+7,"Vitamin A, RAE","Vitamin A, RAE",G,0.000025,0.000018
+7,"Vitamin A, RAE","Vitamin A, RAE",G,0.00001,0.000022
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000046,0.000032
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000684,0.000758
+9,"Vitamin A, RAE","Vitamin A, RAE",G,0.000003,0.000001
+14,"Vitamin A, RAE","Vitamin A, RAE",G,0.000043,0.0000414
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000469,0.000306
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000317,0.0003
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000058,0.000058
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000061,0.000064
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000055,0.000083
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.000046,0.000032
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.00000106
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.00000106
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.0000011
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.0000011
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.00000113
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.00000113
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000026,0.0000023
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000026,0.0000023
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0,0
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000075,0.0000075
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000075,0.0000075
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000083,0.0000097
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000083,0.0000097
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.000006,0.0000058
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.000006,0.0000058
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000104,0.0000157
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000104,0.0000157
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.000001,0.000001
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.000001,0.000001
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.00000106
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.00000106
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.0000011
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.0000011
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000012,0.00000113
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.00000113
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000013,0.00000096
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000013,0.00000096
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.000002,0.00000246
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.000002,0.00000246
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0.0000004
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0,0.0000004
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000007,0.0000000406
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000007,0.00000004063
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000004,0.0000000562
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000004,0.00000005625
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000002,0.0000000217
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000002,0.00000002167
+16,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.000000681
+16,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000012,0.0000006814
+14,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.000001,0.000000927
+14,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.000001,0
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000003,0
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000003,0
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000001,0
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000001,0
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000001,0
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000001,0
+11,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000281,0.0000016
+11,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000281,0.000001596
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0.000000543
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0,0.0000005434
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000001,0.000000778
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000001,0.0000007783
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0,0
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000004,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000004,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0,0.000000217
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000006,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000006,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000065,0.00000442
+1,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000065,0.000004421
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000005,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000005,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000027,0
+1,Vitamin D3 (cholecalciferol),Vitamin D3 (cholecalciferol),G,0.0000027,0
+1,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000005,0
+16,Vitamin D (D2 + D3),Vitamin D (D2 + D3),G,0.0000012,0.000000681
+16,Vitamin D2 (ergocalciferol),Vitamin D2 (ergocalciferol),G,0.0000012,0.0000006814
+1,Vitamin B-12,Vitamin B-12,G,0.00000047,0.00000061
+1,Vitamin B-12,Vitamin B-12,G,0.0000005,0.00000058
+1,Vitamin B-12,Vitamin B-12,G,0.00000053,0.00000055
+1,Vitamin B-12,Vitamin B-12,G,0.0000015,0.00000145
+1,Vitamin B-12,Vitamin B-12,G,0.00000047,0.00000061
+1,Vitamin B-12,Vitamin B-12,G,0.0000005,0.00000058
+1,Vitamin B-12,Vitamin B-12,G,0.00000053,0.00000055
+1,Vitamin B-12,Vitamin B-12,G,0.00000045,0.00000054
+1,Vitamin B-12,Vitamin B-12,G,0.0000014,0.00000135
+1,Vitamin B-12,Vitamin B-12,G,0.0000015,0.00000145
+1,Vitamin B-12,Vitamin B-12,G,0.0000011,0.00000106
+1,Vitamin B-12,Vitamin B-12,G,0.00000047,0.00000042
+1,Vitamin B-12,Vitamin B-12,G,0.00000168,0.00000165
+1,Vitamin B-12,Vitamin B-12,G,0.00000075,0.0000007
+1,Vitamin B-12,Vitamin B-12,G,0.00000049,0.00000045
+1,Vitamin B-12,Vitamin B-12,G,0.00000034,0.00000078
+1,Vitamin B-12,Vitamin B-12,G,0.00000047,0.00000061
+1,Vitamin B-12,Vitamin B-12,G,0.0000005,0.00000058
+1,Vitamin B-12,Vitamin B-12,G,0.00000053,0.00000055
+7,Vitamin B-12,Vitamin B-12,G,0.00000203,0.00000113
+7,Vitamin B-12,Vitamin B-12,G,0.0000013,0.00000106
+1,Vitamin B-12,Vitamin B-12,G,0.00000045,0.00000054
+7,Vitamin B-12,Vitamin B-12,G,0.00000079,0.0000012
+1,Vitamin B-12,Vitamin B-12,G,0.00000089,0.00000102
+1,Vitamin B-12,Vitamin B-12,G,0.00000017,0
+16,Vitamin B-12,Vitamin B-12,G,0.00000111,0.0000003931
+14,Vitamin B-12,Vitamin B-12,G,0,0.0000003375
+1,Vitamin B-12,Vitamin B-12,G,0.00000043,0.0000006617
+1,Vitamin B-12,Vitamin B-12,G,0.00000022,0
+1,Vitamin B-12,Vitamin B-12,G,0.00000016,0
+1,Vitamin B-12,Vitamin B-12,G,0.00000021,0.00000006175
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+16,Vitamin B-12,Vitamin B-12,G,0.00000111,0.0000003931
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+11,"Vitamin A, RAE","Vitamin A, RAE",G,0.000031,0.000008
+1,"Vitamin A, RAE","Vitamin A, RAE",G,0.00016,0.00018
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03216,0.028408
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03149,0.02948
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03283,0.030284
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.07035,0.06097
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.20167,0.20167
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.22177,0.25996
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.15946,0.15477
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.27939,0.42076
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.0268,0.0268
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03216,0.028408
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03149,0.02948
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03283,0.030284
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03417,0.025728
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.05494,0.065928
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0.01072
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.01943,0.0010854
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.01206,0.0015075
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00469,0.00058156
+16,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03283,0.018224
+14,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.02814,0.024857
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00938,0
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00335,0
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00201,0
+11,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.75241,0.04288
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00067,0.014539
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.00134,0.020837
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.01072,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0,0.0058156
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.01474,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.17353,0.11859
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.0134,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.0737,0
+1,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.01407,0
+16,"Vitamin D (D2 + D3), International Units",Vitamin D,G,0.03283,0.018224
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.00006
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.000058
+1,Vitamin B-6,Vitamin B-6,G,0.000038,0.000061
+1,Vitamin B-6,Vitamin B-6,G,0.000054,0.000056
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.00006
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.000058
+1,Vitamin B-6,Vitamin B-6,G,0.000038,0.000061
+1,Vitamin B-6,Vitamin B-6,G,0.000036,0.000061
+16,Vitamin B-6,Vitamin B-6,G,0.0002,0.000143
+12,Vitamin B-6,Vitamin B-6,G,0.000136,0.000075
+11,Vitamin B-6,Vitamin B-6,G,0.000271,0.000147
+11,Vitamin B-6,Vitamin B-6,G,0.000117,0.000127
+11,Vitamin B-6,Vitamin B-6,G,0.000035,0.000034
+1,Vitamin B-6,Vitamin B-6,G,0.000081,0.000081
+1,Vitamin B-6,Vitamin B-6,G,0.000054,0.000056
+9,Vitamin B-6,Vitamin B-6,G,0.00002,0
+12,Vitamin B-6,Vitamin B-6,G,0.000804,0.00076
+18,Vitamin B-6,Vitamin B-6,G,0.000087,0.000092
+2,Vitamin B-6,Vitamin B-6,G,0.00007,0.000069
+9,Vitamin B-6,Vitamin B-6,G,0.000063,0.000061
+9,Vitamin B-6,Vitamin B-6,G,0.000025,0.000025
+1,Vitamin B-6,Vitamin B-6,G,0.000066,0.000069
+1,Vitamin B-6,Vitamin B-6,G,0.000057,0.000057
+1,Vitamin B-6,Vitamin B-6,G,0.0001,0.00009
+1,Vitamin B-6,Vitamin B-6,G,0.000063,0.000064
+1,Vitamin B-6,Vitamin B-6,G,0.00005,0.00005
+1,Vitamin B-6,Vitamin B-6,G,0.000043,0.000099
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.00006
+1,Vitamin B-6,Vitamin B-6,G,0.000037,0.000058
+1,Vitamin B-6,Vitamin B-6,G,0.000038,0.000061
+7,Vitamin B-6,Vitamin B-6,G,0.000192,0.00015
+7,Vitamin B-6,Vitamin B-6,G,0.00033,0.000343
+1,Vitamin B-6,Vitamin B-6,G,0.000036,0.000061
+7,Vitamin B-6,Vitamin B-6,G,0.000208,0.000335
+11,Vitamin B-6,Vitamin B-6,G,0.000175,0.000191
+1,"Carbohydrate, by difference",Vitamin B-6,G,0.00017,0.000063
+20,Vitamin B-6,Vitamin B-6,G,0.000044,0.000066
+20,Vitamin B-6,Vitamin B-6,G,0.000044,0.000079
+20,Vitamin B-6,Vitamin B-6,G,0.000044,0.000085
+20,Vitamin B-6,Vitamin B-6,G,0.000407,0.000268
+20,Vitamin B-6,Vitamin B-6,G,0.000037,0.000079
+20,Vitamin B-6,Vitamin B-6,G,0.000436,0.000052
+1,Vitamin B-6,Vitamin B-6,G,0.000003,0
+16,Vitamin B-6,Vitamin B-6,G,0.000574,0.000618
+16,Vitamin B-6,Vitamin B-6,G,0.000461,0.00034
+20,Vitamin B-6,Vitamin B-6,G,0.000736,0.000132
+9,Vitamin B-6,Vitamin B-6,G,0.000367,0.000209
+9,Vitamin B-6,Vitamin B-6,G,0.000034,0.00002131
+9,Vitamin B-6,Vitamin B-6,G,0.000045,0.00003544
+9,Vitamin B-6,Vitamin B-6,G,0.000049,0.00003175
+9,Vitamin B-6,Vitamin B-6,G,0.000037,0.00002788
+9,Vitamin B-6,Vitamin B-6,G,0.000051,0.00003275
+11,Vitamin B-6,Vitamin B-6,G,0.00011,0.00009888
+11,Vitamin B-6,Vitamin B-6,G,0.000293,0.0001593
+11,Vitamin B-6,Vitamin B-6,G,0.000104,0.00007683
+16,Vitamin B-6,Vitamin B-6,G,0.000049,0.00005525
+14,Vitamin B-6,Vitamin B-6,G,0.000015,0
+11,Vitamin B-6,Vitamin B-6,G,0.000195,0.0002143
+20,Vitamin B-6,Vitamin B-6,G,0.00023,0.0002355
+9,Vitamin B-6,Vitamin B-6,G,0.000018,0.00001388
+9,Vitamin B-6,Vitamin B-6,G,0.000076,0.00004288
+9,Vitamin B-6,Vitamin B-6,G,0.000032,0.00003869
+9,Vitamin B-6,Vitamin B-6,G,0.000052,0.00000925
+11,Vitamin B-6,Vitamin B-6,G,0.00007,0.00007613
+9,Vitamin B-6,Vitamin B-6,G,0.00004,0.00004113
+11,Vitamin B-6,Vitamin B-6,G,0.000122,0.00009692
+11,Vitamin B-6,Vitamin B-6,G,0.0001,0.0001188
+11,Vitamin B-6,Vitamin B-6,G,0.00011,0.0001125
+11,Vitamin B-6,Vitamin B-6,G,0.000056,0.000071
+11,Vitamin B-6,Vitamin B-6,G,0.000138,0.0001456
+11,Vitamin B-6,Vitamin B-6,G,0.000105,0.0001146
+11,Vitamin B-6,Vitamin B-6,G,0.000224,0.0002468
+11,Vitamin B-6,Vitamin B-6,G,0.000168,0.0002918
+11,Vitamin B-6,Vitamin B-6,G,0.000291,0.0003027
+1,Vitamin B-6,Vitamin B-6,G,0.000034,0.00003931
+1,Vitamin B-6,Vitamin B-6,G,0.000032,0.00004506
+1,Vitamin B-6,Vitamin B-6,G,0.000063,0.00004394
+1,Vitamin B-6,Vitamin B-6,G,0.000424,0.00003831
+11,Vitamin B-6,Vitamin B-6,G,0.000769,0.000582
+16,Vitamin B-6,Vitamin B-6,G,0.000441,0.0003805
+12,Vitamin B-6,Vitamin B-6,G,0.000103,0.00008375
+12,Vitamin B-6,Vitamin B-6,G,0.000473,0.0003926
+1,Vitamin B-6,Vitamin B-6,G,0.000046,0.0000466
+1,Vitamin B-6,Vitamin B-6,G,0.000056,0.00003925
+1,Vitamin B-6,Vitamin B-6,G,0.000035,0.000031
+1,Vitamin B-6,Vitamin B-6,G,0.000041,0.0000385
+11,Vitamin B-6,Vitamin B-6,G,0.000042,0.00004013
+11,Vitamin B-6,Vitamin B-6,G,0.0001,0.00007413
+11,Vitamin B-6,Vitamin B-6,G,0.00009,0.00007088
+12,Vitamin B-6,Vitamin B-6,G,0.000094,0.0002546
+12,Vitamin B-6,Vitamin B-6,G,0.000137,0.0001008
+12,Vitamin B-6,Vitamin B-6,G,0.000537,0.0006603
+12,Vitamin B-6,Vitamin B-6,G,0.00021,0.0001711
+20,Vitamin B-6,Vitamin B-6,G,0.000119,0.0001346
+9,Vitamin B-6,Vitamin B-6,G,0.000112,0.0001101
+9,Vitamin B-6,Vitamin B-6,G,0.000049,0.00004888
+11,Vitamin B-6,Vitamin B-6,G,0.000141,0.000121
+11,Vitamin B-6,Vitamin B-6,G,0.000074,0.00005175
+11,Vitamin B-6,Vitamin B-6,G,0.000124,0.0001384
+11,Vitamin B-6,Vitamin B-6,G,0.000209,0.0001789
+20,Vitamin B-6,Vitamin B-6,G,0.000582,0.0001699
+20,Vitamin B-6,Vitamin B-6,G,0.000396,0.0001995
+20,Vitamin B-6,Vitamin B-6,G,0.00021,0.0002776
+20,Vitamin B-6,Vitamin B-6,G,0.000384,0.0001918
+20,Vitamin B-6,Vitamin B-6,G,0.000477,0.0001606
+20,Vitamin B-6,Vitamin B-6,G,0.000164,0.00005788
+16,Vitamin B-6,Vitamin B-6,G,0.000049,0.00005525
+1,"Calcium, Ca","Calcium, Ca",G,0.125,0.126
+1,"Calcium, Ca","Calcium, Ca",G,0.122,0.132
+1,"Calcium, Ca","Calcium, Ca",G,0.12,0.126
+1,"Calcium, Ca","Calcium, Ca",G,1.045,0.866
+1,"Calcium, Ca","Calcium, Ca",G,0.125,0.126
+1,"Calcium, Ca","Calcium, Ca",G,0.122,0.132
+1,"Calcium, Ca","Calcium, Ca",G,0.12,0.126
+1,"Calcium, Ca","Calcium, Ca",G,0.113,0.123
+1,"Calcium, Ca","Calcium, Ca",G,1.375,1.498
+16,"Calcium, Ca","Calcium, Ca",G,0.038,0.041
+11,"Calcium, Ca","Calcium, Ca",G,0.037,0.036
+12,"Calcium, Ca","Calcium, Ca",G,0.268,0.273
+11,"Calcium, Ca","Calcium, Ca",G,0.15,0.254
+1,"Calcium, Ca","Calcium, Ca",G,0.062,0.055
+1,"Calcium, Ca","Calcium, Ca",G,0.008,0.009
+1,"Calcium, Ca","Calcium, Ca",G,0.062,0.104
+11,"Calcium, Ca","Calcium, Ca",G,0.031,0.028
+11,"Calcium, Ca","Calcium, Ca",G,0.057,0.054
+1,"Calcium, Ca","Calcium, Ca",G,0.853,0.884
+1,"Calcium, Ca","Calcium, Ca",G,1.045,0.866
+9,"Calcium, Ca","Calcium, Ca",G,0.014,0.016
+12,"Calcium, Ca","Calcium, Ca",G,0.07,0.078
+18,"Calcium, Ca","Calcium, Ca",G,0.144,0.211
+2,"Calcium, Ca","Calcium, Ca",G,0.063,0.063
+9,"Calcium, Ca","Calcium, Ca",G,0.034,0.035
+9,"Calcium, Ca","Calcium, Ca",G,0.006,0.002
+1,"Calcium, Ca","Calcium, Ca",G,0.71,0.707
+1,"Calcium, Ca","Calcium, Ca",G,0.111,0.103
+1,"Calcium, Ca","Calcium, Ca",G,0.697,0.693
+1,"Calcium, Ca","Calcium, Ca",G,0.244,0.22
+1,"Calcium, Ca","Calcium, Ca",G,0.134,0.119
+1,"Calcium, Ca","Calcium, Ca",G,0.289,0.27
+1,"Calcium, Ca","Calcium, Ca",G,0.11,0.111
+1,"Calcium, Ca","Calcium, Ca",G,0.097,0.097
+7,"Calcium, Ca","Calcium, Ca",G,0.005,0.005
+1,"Calcium, Ca","Calcium, Ca",G,0.207,0.224
+1,"Calcium, Ca","Calcium, Ca",G,0.125,0.126
+2,"Calcium, Ca","Calcium, Ca",G,0.024,0.05
+1,"Calcium, Ca","Calcium, Ca",G,0.122,0.132
+1,"Calcium, Ca","Calcium, Ca",G,0.12,0.126
+7,"Calcium, Ca","Calcium, Ca",G,0.015,0.035
+7,"Calcium, Ca","Calcium, Ca",G,0.021,0.012
+1,"Calcium, Ca","Calcium, Ca",G,0.113,0.123
+7,"Calcium, Ca","Calcium, Ca",G,0.032,0.032
+11,"Calcium, Ca","Calcium, Ca",G,0.047,0.046
+1,"Carbohydrate, by difference","Calcium, Ca",G,0.056,0.048
+1,"Calcium, Ca","Calcium, Ca",G,0.024,0.014
+20,"Calcium, Ca","Calcium, Ca",G,0.015,0.019
+20,"Calcium, Ca","Calcium, Ca",G,0.015,0.021
+20,"Calcium, Ca","Calcium, Ca",G,0.015,0.022
+20,"Calcium, Ca","Calcium, Ca",G,0.034,0.038
+20,"Calcium, Ca","Calcium, Ca",G,0.015,0.019
+20,"Calcium, Ca","Calcium, Ca",G,0.01,0.006
+1,"Calcium, Ca","Calcium, Ca",G,0.024,0.021
+16,"Calcium, Ca","Calcium, Ca",G,0.241,0.338
+16,"Calcium, Ca","Calcium, Ca",G,0.206,0.258
+20,"Calcium, Ca","Calcium, Ca",G,0.011,0.01
+9,"Calcium, Ca","Calcium, Ca",G,0.005,0.005
+9,"Calcium, Ca","Calcium, Ca",G,0.006,0.004656
+9,"Calcium, Ca","Calcium, Ca",G,0.007,0.005975
+9,"Calcium, Ca","Calcium, Ca",G,0.007,0.006639
+9,"Calcium, Ca","Calcium, Ca",G,0.005,0.005483
+9,"Calcium, Ca","Calcium, Ca",G,0.006,0.003874
+11,"Calcium, Ca","Calcium, Ca",G,0.003,0
+11,"Calcium, Ca","Calcium, Ca",G,0.002,0.0007663
+11,"Calcium, Ca","Calcium, Ca",G,0.003,0.005465
+16,"Calcium, Ca","Calcium, Ca",G,0.124,0.101
+14,"Calcium, Ca","Calcium, Ca",G,0.197,0.1727
+11,"Calcium, Ca","Calcium, Ca",G,0.099,0.06664
+20,"Calcium, Ca","Calcium, Ca",G,0.027,0.03004
+9,"Calcium, Ca","Calcium, Ca",G,0.008,0.007099
+9,"Calcium, Ca","Calcium, Ca",G,0.011,0.01281
+9,"Calcium, Ca","Calcium, Ca",G,0.011,0.009741
+9,"Calcium, Ca","Calcium, Ca",G,0.008,0.006641
+11,"Calcium, Ca","Calcium, Ca",G,0.01,0.009744
+9,"Calcium, Ca","Calcium, Ca",G,0.011,0.009288
+11,"Calcium, Ca","Calcium, Ca",G,0.003,0.003235
+11,"Calcium, Ca","Calcium, Ca",G,0,0.001432
+11,"Calcium, Ca","Calcium, Ca",G,0.018,0.004105
+11,"Calcium, Ca","Calcium, Ca",G,0.001,0
+11,"Calcium, Ca","Calcium, Ca",G,0.033,0.03048
+11,"Calcium, Ca","Calcium, Ca",G,0.032,0.04223
+11,"Calcium, Ca","Calcium, Ca",G,0.01,0.007496
+11,"Calcium, Ca","Calcium, Ca",G,0.011,0.006686
+11,"Calcium, Ca","Calcium, Ca",G,0.007,0.006361
+1,"Calcium, Ca","Calcium, Ca",G,0.116,0.1201
+1,"Calcium, Ca","Calcium, Ca",G,0.121,0.1268
+1,"Calcium, Ca","Calcium, Ca",G,0.1,0.1109
+1,"Calcium, Ca","Calcium, Ca",G,0.493,0.3711
+11,"Calcium, Ca","Calcium, Ca",G,0.065,0.04412
+16,"Calcium, Ca","Calcium, Ca",G,0.049,0.04985
+12,"Calcium, Ca","Calcium, Ca",G,0.347,0.2638
+12,"Calcium, Ca","Calcium, Ca",G,0.255,0.2299
+1,"Calcium, Ca","Calcium, Ca",G,0.083,0.08827
+1,"Calcium, Ca","Calcium, Ca",G,0.097,0.09711
+1,"Calcium, Ca","Calcium, Ca",G,0.066,0.06121
+1,"Calcium, Ca","Calcium, Ca",G,0.101,0.1072
+11,"Calcium, Ca","Calcium, Ca",G,0.018,0.01424
+11,"Calcium, Ca","Calcium, Ca",G,0.033,0.04259
+11,"Calcium, Ca","Calcium, Ca",G,0.036,0.03984
+12,"Calcium, Ca","Calcium, Ca",G,0.016,0.008736
+12,"Calcium, Ca","Calcium, Ca",G,0.269,0.2536
+12,"Calcium, Ca","Calcium, Ca",G,0.098,0.08826
+12,"Calcium, Ca","Calcium, Ca",G,0.07,0.05483
+20,"Calcium, Ca","Calcium, Ca",G,0.054,0.04553
+9,"Calcium, Ca","Calcium, Ca",G,0.013,0.0125
+9,"Calcium, Ca","Calcium, Ca",G,0.013,0.01226
+11,"Calcium, Ca","Calcium, Ca",G,0.037,0.04005
+11,"Calcium, Ca","Calcium, Ca",G,0.04,0.04628
+11,"Calcium, Ca","Calcium, Ca",G,0.016,0.01634
+11,"Calcium, Ca","Calcium, Ca",G,0.04,0.04184
+11,"Calcium, Ca","Calcium, Ca",G,0.045,0.03099
+9,"Calcium, Ca","Calcium, Ca",G,0.016,0.0169
+9,"Calcium, Ca","Calcium, Ca",G,0.025,0.01641
+9,"Calcium, Ca","Calcium, Ca",G,0.006,0.01169
+9,"Calcium, Ca","Calcium, Ca",G,0.004,0.003821
+20,"Calcium, Ca","Calcium, Ca",G,0.041,0.03055
+20,"Calcium, Ca","Calcium, Ca",G,0.032,0.03556
+20,"Calcium, Ca","Calcium, Ca",G,0.018,0.01364
+20,"Calcium, Ca","Calcium, Ca",G,0.008,0.009105
+20,"Calcium, Ca","Calcium, Ca",G,0.009,0.008058
+20,"Calcium, Ca","Calcium, Ca",G,0.028,0.00446
+13,"Calcium, Ca","Calcium, Ca",G,0.012,0.007135
+13,"Calcium, Ca","Calcium, Ca",G,0.018,0.006889
+10,"Calcium, Ca","Calcium, Ca",G,0.014,0.005857
+5,"Calcium, Ca","Calcium, Ca",G,0.006,0.005819
+5,"Calcium, Ca","Calcium, Ca",G,0.021,0.02363
+12,"Calcium, Ca","Calcium, Ca",G,0.037,0.04195
+12,"Calcium, Ca","Calcium, Ca",G,0.114,0.1347
+16,"Calcium, Ca","Calcium, Ca",G,0.092,0.04913
+12,"Calcium, Ca","Calcium, Ca",G,0.085,0.05271
+12,"Calcium, Ca","Calcium, Ca",G,0.105,0.1174
+12,"Calcium, Ca","Calcium, Ca",G,0.078,0.1156
+16,"Calcium, Ca","Calcium, Ca",G,0.057,0.1111
+16,"Calcium, Ca","Calcium, Ca",G,0.035,0.06185
+16,"Calcium, Ca","Calcium, Ca",G,0.11,0.0714
+16,"Calcium, Ca","Calcium, Ca",G,0.035,0.04331
+16,"Calcium, Ca","Calcium, Ca",G,0.047,0.06391
+16,"Calcium, Ca","Calcium, Ca",G,0.043,0.04048
+16,"Calcium, Ca","Calcium, Ca",G,0.058,0.05694
+16,"Calcium, Ca","Calcium, Ca",G,0.058,0.06025
+11,"Calcium, Ca","Calcium, Ca",G,0.024,0.02821
+16,"Calcium, Ca","Calcium, Ca",G,0.064,0.05523
+16,"Calcium, Ca","Calcium, Ca",G,0.02,0.02778
+16,"Calcium, Ca","Calcium, Ca",G,0.053,0.06716
+10,"Calcium, Ca","Calcium, Ca",G,0.007,0.004111
+10,"Calcium, Ca","Calcium, Ca",G,0.006,0.004528
+5,"Calcium, Ca","Calcium, Ca",G,0.005,0.003939
+5,"Calcium, Ca","Calcium, Ca",G,0.007,0.00565
+13,"Calcium, Ca","Calcium, Ca",G,0.006,0.004173
+13,"Calcium, Ca","Calcium, Ca",G,0.013,0.00407
+13,"Calcium, Ca","Calcium, Ca",G,0.012,0.004576
+13,"Calcium, Ca","Calcium, Ca",G,0.027,0.003836
+1,"Calcium, Ca","Calcium, Ca",G,0.199,0.1674
+1,"Calcium, Ca","Calcium, Ca",G,0.746,0.7146
+1,"Calcium, Ca","Calcium, Ca",G,1.375,1.498
+1,"Calcium, Ca","Calcium, Ca",G,0.756,0.7488
+1,"Calcium, Ca","Calcium, Ca",G,0.566,0.6018
+1,"Calcium, Ca","Calcium, Ca",G,0.8,0.6996
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00002,0
+1,"Iron, Fe","Iron, Fe",G,0.00063,0.00048
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00002,0
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00095,0.001303
+16,"Iron, Fe","Iron, Fe",G,0.00046,0.0005416
+16,"Iron, Fe","Iron, Fe",G,0.00244,0.00241
+11,"Iron, Fe","Iron, Fe",G,0.00089,0.00078
+12,"Iron, Fe","Iron, Fe",G,0.00373,0.00317
+11,"Iron, Fe","Iron, Fe",G,0.00147,0.0016
+1,"Iron, Fe","Iron, Fe",G,0.00174,0.00177
+1,"Iron, Fe","Iron, Fe",G,0.00004,0.00018
+1,"Iron, Fe","Iron, Fe",G,0.00015,0
+11,"Iron, Fe","Iron, Fe",G,0.00125,0.00114
+11,"Iron, Fe","Iron, Fe",G,0.00026,0.00023
+1,"Iron, Fe","Iron, Fe",G,0.00049,0.00045
+1,"Iron, Fe","Iron, Fe",G,0.00063,0.00048
+9,"Iron, Fe","Iron, Fe",G,0.00011,0.00007
+12,"Iron, Fe","Iron, Fe",G,0.0038,0.00521
+18,"Iron, Fe","Iron, Fe",G,0.00361,0.00336
+2,"Iron, Fe","Iron, Fe",G,0.00161,0.00159
+9,"Iron, Fe","Iron, Fe",G,0.00031,0.00024
+9,"Iron, Fe","Iron, Fe",G,0.00028,0.0003
+1,"Iron, Fe","Iron, Fe",G,0.00014,0.00016
+1,"Iron, Fe","Iron, Fe",G,0.00013,0.00013
+1,"Iron, Fe","Iron, Fe",G,0.00022,0.0002
+1,"Iron, Fe","Iron, Fe",G,0.0072,0.00697
+1,"Iron, Fe","Iron, Fe",G,0.00455,0.00413
+1,"Iron, Fe","Iron, Fe",G,0.00956,0.00928
+1,"Iron, Fe","Iron, Fe",G,0.00007,0.00007
+1,"Iron, Fe","Iron, Fe",G,0.00009,0.00009
+7,"Iron, Fe","Iron, Fe",G,0.00059,0.00058
+1,"Iron, Fe","Iron, Fe",G,0.00038,0.0001
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+2,"Iron, Fe","Iron, Fe",G,0.00033,0
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+1,"Iron, Fe","Iron, Fe",G,0.00002,0
+7,"Iron, Fe","Iron, Fe",G,0.00153,0.00155
+7,"Iron, Fe","Iron, Fe",G,0.00143,0.00129
+1,"Iron, Fe","Iron, Fe",G,0.00003,0
+7,"Iron, Fe","Iron, Fe",G,0.00107,0.00117
+11,"Iron, Fe","Iron, Fe",G,0.00073,0.00069
+1,"Iron, Fe","Iron, Fe",G,0.00175,0.00167
+1,"Iron, Fe","Iron, Fe",G,0.00002,0.00003
+20,"Iron, Fe","Iron, Fe",G,0.00464,0.00562
+20,"Iron, Fe","Iron, Fe",G,0.00464,0.00541
+20,"Iron, Fe","Iron, Fe",G,0.00117,0.00118
+20,"Iron, Fe","Iron, Fe",G,0.0036,0.00386
+20,"Iron, Fe","Iron, Fe",G,0.00441,0.00555
+20,"Iron, Fe","Iron, Fe",G,0.00035,0.00022
+1,"Iron, Fe","Iron, Fe",G,0.00002,0.00006
+16,"Iron, Fe","Iron, Fe",G,0.00924,0.00734
+16,"Iron, Fe","Iron, Fe",G,0.00637,0.00951
+20,"Iron, Fe","Iron, Fe",G,0.00198,0.0015
+9,"Iron, Fe","Iron, Fe",G,0.00026,0
+9,"Iron, Fe","Iron, Fe",G,0.00011,0
+9,"Iron, Fe","Iron, Fe",G,0.0001,0.000015
+9,"Iron, Fe","Iron, Fe",G,0.00012,0.00006013
+9,"Iron, Fe","Iron, Fe",G,0.00015,0.00006963
+9,"Iron, Fe","Iron, Fe",G,0.00013,0
+11,"Iron, Fe","Iron, Fe",G,0.00133,0.0006981
+11,"Iron, Fe","Iron, Fe",G,0.00041,0.0001443
+11,"Iron, Fe","Iron, Fe",G,0.0005,0.0002267
+16,"Iron, Fe","Iron, Fe",G,0.00046,0.0005416
+14,"Iron, Fe","Iron, Fe",G,0.00035,0.0002899
+11,"Iron, Fe","Iron, Fe",G,0.00271,0.001054
+20,"Iron, Fe","Iron, Fe",G,0.00444,0.003769
+9,"Iron, Fe","Iron, Fe",G,0.00012,0.00004016
+9,"Iron, Fe","Iron, Fe",G,0.00013,0.00006458
+9,"Iron, Fe","Iron, Fe",G,0.00025,0.00004092
+9,"Iron, Fe","Iron, Fe",G,0.00025,0.0001257
+11,"Iron, Fe","Iron, Fe",G,0.00039,0.0002988
+9,"Iron, Fe","Iron, Fe",G,0.0002,0.00007061
+11,"Iron, Fe","Iron, Fe",G,0.0004,0.000139
+11,"Iron, Fe","Iron, Fe",G,0.00115,0.001275
+11,"Iron, Fe","Iron, Fe",G,0.0004,0.0003115
+11,"Iron, Fe","Iron, Fe",G,0.0003,0.0002089
+11,"Iron, Fe","Iron, Fe",G,0.0003,0.0001504
+11,"Iron, Fe","Iron, Fe",G,0.00089,0.000088
+11,"Iron, Fe","Iron, Fe",G,0.00034,0.0001861
+1,"Iron, Fe","Iron, Fe",G,0.00005,0.00001325
+1,"Iron, Fe","Iron, Fe",G,0.00005,0
+1,"Iron, Fe","Iron, Fe",G,0,0
+1,"Iron, Fe","Iron, Fe",G,0.00065,0.0000675
+11,"Iron, Fe","Iron, Fe",G,0.00138,0.01197
+16,"Iron, Fe","Iron, Fe",G,0.00174,0.001853
+12,"Iron, Fe","Iron, Fe",G,0.00349,0.004108
+12,"Iron, Fe","Iron, Fe",G,0.00573,0.005778
+1,"Iron, Fe","Iron, Fe",G,0.00007,0
+1,"Iron, Fe","Iron, Fe",G,0.00011,0
+1,"Iron, Fe","Iron, Fe",G,0.0001,0
+1,"Iron, Fe","Iron, Fe",G,0.00007,0
+11,"Iron, Fe","Iron, Fe",G,0.00041,0.00003325
+11,"Iron, Fe","Iron, Fe",G,0.0012,0.0004023
+11,"Iron, Fe","Iron, Fe",G,0.00086,0.0003195
+12,"Iron, Fe","Iron, Fe",G,0.00553,0.00536
+12,"Iron, Fe","Iron, Fe",G,0.00371,0.003741
+12,"Iron, Fe","Iron, Fe",G,0.00291,0.002235
+12,"Iron, Fe","Iron, Fe",G,0.00253,0.002371
+20,"Iron, Fe","Iron, Fe",G,0.00472,0.004339
+9,"Iron, Fe","Iron, Fe",G,0.00029,0.000054
+9,"Iron, Fe","Iron, Fe",G,0.00036,0.0001054
+11,"Iron, Fe","Iron, Fe",G,0.00103,0.0006516
+11,"Iron, Fe","Iron, Fe",G,0.0002,0
+11,"Iron, Fe","Iron, Fe",G,0.00028,0
+11,"Iron, Fe","Iron, Fe",G,0.00047,0.00006625
+11,"Iron, Fe","Iron, Fe",G,0.0008,0
+9,"Iron, Fe","Iron, Fe",G,0.00041,0.000255
+9,"Iron, Fe","Iron, Fe",G,0.00069,0.0004501
+9,"Iron, Fe","Iron, Fe",G,0.00028,0.0003398
+9,"Iron, Fe","Iron, Fe",G,0.00023,0.00004475
+20,"Iron, Fe","Iron, Fe",G,0.00406,0.00384
+20,"Iron, Fe","Iron, Fe",G,0.00268,0.003301
+20,"Iron, Fe","Iron, Fe",G,0.0022,0.002444
+20,"Iron, Fe","Iron, Fe",G,0.00301,0.002534
+20,"Iron, Fe","Iron, Fe",G,0.00129,0.001242
+20,"Iron, Fe","Iron, Fe",G,0.0008,0.0001405
+13,"Iron, Fe","Iron, Fe",G,0.00224,0.002128
+13,"Iron, Fe","Iron, Fe",G,0.00194,0.001965
+10,"Iron, Fe","Iron, Fe",G,0.00088,0.0007876
+5,"Iron, Fe","Iron, Fe",G,0.00082,0.0005926
+5,"Iron, Fe","Iron, Fe",G,0.00117,0.001087
+12,"Iron, Fe","Iron, Fe",G,0.00668,0.005988
+12,"Iron, Fe","Iron, Fe",G,0.0047,0.003465
+16,"Iron, Fe","Iron, Fe",G,0.00458,0.001554
+12,"Iron, Fe","Iron, Fe",G,0.00369,0.001881
+12,"Iron, Fe","Iron, Fe",G,0.00392,0.003456
+12,"Iron, Fe","Iron, Fe",G,0.00525,0.00437
+16,"Iron, Fe","Iron, Fe",G,0.00431,0.005094
+16,"Iron, Fe","Iron, Fe",G,0.00651,0.007158
+16,"Iron, Fe","Iron, Fe",G,0.00827,0.00593
+16,"Iron, Fe","Iron, Fe",G,0.0019,0.001688
+16,"Iron, Fe","Iron, Fe",G,0.00185,0.001599
+16,"Iron, Fe","Iron, Fe",G,0.00098,0.001042
+16,"Iron, Fe","Iron, Fe",G,0.0015,0.001439
+16,"Iron, Fe","Iron, Fe",G,0.0015,0.001305
+11,"Iron, Fe","Iron, Fe",G,0.00109,0.001139
+16,"Iron, Fe","Iron, Fe",G,0.00127,0.001284
+16,"Iron, Fe","Iron, Fe",G,0.00097,0.001084
+16,"Iron, Fe","Iron, Fe",G,0.00157,0.001382
+10,"Iron, Fe","Iron, Fe",G,0.00053,0.0004519
+10,"Iron, Fe","Iron, Fe",G,0.00097,0.0009293
+5,"Iron, Fe","Iron, Fe",G,0.00037,0.0003543
+5,"Iron, Fe","Iron, Fe",G,0.00081,0.0006018
+13,"Iron, Fe","Iron, Fe",G,0.00264,0.001641
+13,"Iron, Fe","Iron, Fe",G,0.00235,0.001901
+13,"Iron, Fe","Iron, Fe",G,0.00213,0.002059
+13,"Iron, Fe","Iron, Fe",G,0.00155,0.001834
+1,"Iron, Fe","Iron, Fe",G,0.00009,0
+1,"Iron, Fe","Iron, Fe",G,0.00072,0
+1,"Iron, Fe","Iron, Fe",G,0.00095,0.001303
+1,"Iron, Fe","Iron, Fe",G,0.00052,0
+1,"Iron, Fe","Iron, Fe",G,0.0002,0
+1,"Iron, Fe","Iron, Fe",G,0,0
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00043
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00045
+1,"Zinc, Zn","Zinc, Zn",G,0.00048,0.00043
+1,"Zinc, Zn","Zinc, Zn",G,0.00249,0.00242
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00043
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00045
+1,"Zinc, Zn","Zinc, Zn",G,0.00048,0.00043
+1,"Zinc, Zn","Zinc, Zn",G,0.00037,0.00042
+1,"Zinc, Zn","Zinc, Zn",G,0.00221,0.002379
+16,"Zinc, Zn","Zinc, Zn",G,0.00183,0.00138
+11,"Zinc, Zn","Zinc, Zn",G,0.00019,0.00019
+12,"Zinc, Zn","Zinc, Zn",G,0.00331,0.0028
+11,"Zinc, Zn","Zinc, Zn",G,0.00056,0.00039
+1,"Zinc, Zn","Zinc, Zn",G,0.00132,0.0012
+1,"Zinc, Zn","Zinc, Zn",G,0.00007,0.00002
+1,"Zinc, Zn","Zinc, Zn",G,0.0001,0.00043
+11,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00059
+11,"Zinc, Zn","Zinc, Zn",G,0.0001,0.00011
+1,"Zinc, Zn","Zinc, Zn",G,0.0042,0.00433
+1,"Zinc, Zn","Zinc, Zn",G,0.00249,0.00242
+9,"Zinc, Zn","Zinc, Zn",G,0.00008,0.00004
+12,"Zinc, Zn","Zinc, Zn",G,0.00529,0.006
+18,"Zinc, Zn","Zinc, Zn",G,0.00074,0.00088
+2,"Zinc, Zn","Zinc, Zn",G,0.00064,0.00064
+9,"Zinc, Zn","Zinc, Zn",G,0.00014,0.00014
+9,"Zinc, Zn","Zinc, Zn",G,0.00017,0.00021
+1,"Zinc, Zn","Zinc, Zn",G,0.00364,0.00367
+1,"Zinc, Zn","Zinc, Zn",G,0.00051,0.00061
+1,"Zinc, Zn","Zinc, Zn",G,0.00362,0.00362
+1,"Zinc, Zn","Zinc, Zn",G,0.00315,0.00502
+1,"Zinc, Zn","Zinc, Zn",G,0.00317,0.00293
+1,"Zinc, Zn","Zinc, Zn",G,0.00773,0.00711
+1,"Zinc, Zn","Zinc, Zn",G,0.00052,0.00053
+1,"Zinc, Zn","Zinc, Zn",G,0.00045,0.00046
+7,"Zinc, Zn","Zinc, Zn",G,0.00151,0.00152
+1,"Zinc, Zn","Zinc, Zn",G,0.00116,0.00056
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00043
+2,"Zinc, Zn","Zinc, Zn",G,0.0001,0
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.00045
+1,"Zinc, Zn","Zinc, Zn",G,0.00048,0.00043
+7,"Zinc, Zn","Zinc, Zn",G,0.00292,0.00214
+7,"Zinc, Zn","Zinc, Zn",G,0.00239,0.00241
+1,"Zinc, Zn","Zinc, Zn",G,0.00037,0.00042
+7,"Zinc, Zn","Zinc, Zn",G,0.00298,0.00258
+11,"Zinc, Zn","Zinc, Zn",G,0.00041,0.00042
+1,"Zinc, Zn","Zinc, Zn",G,0.00129,0.00124
+1,"Zinc, Zn","Zinc, Zn",G,0.00009,0.00007
+20,"Zinc, Zn","Zinc, Zn",G,0.0007,0.00072
+20,"Zinc, Zn","Zinc, Zn",G,0.0007,0.0009
+20,"Zinc, Zn","Zinc, Zn",G,0.0007,0.00115
+20,"Zinc, Zn","Zinc, Zn",G,0.0026,0.00324
+20,"Zinc, Zn","Zinc, Zn",G,0.00085,0.00106
+20,"Zinc, Zn","Zinc, Zn",G,0.0008,0.00119
+1,"Zinc, Zn","Zinc, Zn",G,0.00009,0.00007
+16,"Zinc, Zn","Zinc, Zn",G,0.00246,0.00444
+16,"Zinc, Zn","Zinc, Zn",G,0.00392,0.00375
+20,"Zinc, Zn","Zinc, Zn",G,0.00245,0.00191
+9,"Zinc, Zn","Zinc, Zn",G,0.00015,0.00016
+9,"Zinc, Zn","Zinc, Zn",G,0.00004,0.00001964
+9,"Zinc, Zn","Zinc, Zn",G,0.00004,0.00001676
+9,"Zinc, Zn","Zinc, Zn",G,0.00005,0.00002349
+9,"Zinc, Zn","Zinc, Zn",G,0.00004,0.00002276
+9,"Zinc, Zn","Zinc, Zn",G,0.00004,0.00001828
+11,"Zinc, Zn","Zinc, Zn",G,0.00077,0.0006843
+11,"Zinc, Zn","Zinc, Zn",G,0.00103,0.0007641
+11,"Zinc, Zn","Zinc, Zn",G,0.00052,0.000511
+14,"Zinc, Zn","Zinc, Zn",G,0.00007,0.0001718
+11,"Zinc, Zn","Zinc, Zn",G,0.00053,0.0004229
+20,"Zinc, Zn","Zinc, Zn",G,0.00328,0.003591
+9,"Zinc, Zn","Zinc, Zn",G,0.00002,0.000002125
+9,"Zinc, Zn","Zinc, Zn",G,0.00007,0.00003189
+9,"Zinc, Zn","Zinc, Zn",G,0.00007,0.0000571
+9,"Zinc, Zn","Zinc, Zn",G,0.0001,0.0000412
+11,"Zinc, Zn","Zinc, Zn",G,0.00011,0.000104
+9,"Zinc, Zn","Zinc, Zn",G,0.00005,0.00003206
+11,"Zinc, Zn","Zinc, Zn",G,0.00065,0.0003888
+11,"Zinc, Zn","Zinc, Zn",G,0.00065,0.0004815
+11,"Zinc, Zn","Zinc, Zn",G,0.0011,0.0005123
+11,"Zinc, Zn","Zinc, Zn",G,0.00075,0.0007629
+11,"Zinc, Zn","Zinc, Zn",G,0.00024,0.0002364
+11,"Zinc, Zn","Zinc, Zn",G,0.00017,0.0001597
+11,"Zinc, Zn","Zinc, Zn",G,0.00013,0.0001256
+11,"Zinc, Zn","Zinc, Zn",G,0.00017,0.000193
+11,"Zinc, Zn","Zinc, Zn",G,0.00025,0.0002023
+1,"Zinc, Zn","Zinc, Zn",G,0.00042,0.0004263
+1,"Zinc, Zn","Zinc, Zn",G,0.00059,0.0004283
+1,"Zinc, Zn","Zinc, Zn",G,0.00052,0.000473
+1,"Zinc, Zn","Zinc, Zn",G,0.00288,0.002353
+11,"Zinc, Zn","Zinc, Zn",G,0.00054,0.0009002
+16,"Zinc, Zn","Zinc, Zn",G,0.00251,0.003062
+12,"Zinc, Zn","Zinc, Zn",G,0.00329,0.003178
+12,"Zinc, Zn","Zinc, Zn",G,0.00434,0.004738
+1,"Zinc, Zn","Zinc, Zn",G,0.0004,0.0004538
+1,"Zinc, Zn","Zinc, Zn",G,0.0005,0.0005891
+1,"Zinc, Zn","Zinc, Zn",G,0.00024,0.0002231
+1,"Zinc, Zn","Zinc, Zn",G,0.00033,0.0003919
+11,"Zinc, Zn","Zinc, Zn",G,0.00015,0.0001728
+11,"Zinc, Zn","Zinc, Zn",G,0.0002,0.0003033
+11,"Zinc, Zn","Zinc, Zn",G,0.00018,0.0003103
+12,"Zinc, Zn","Zinc, Zn",G,0.00645,0.005713
+12,"Zinc, Zn","Zinc, Zn",G,0.00312,0.002865
+12,"Zinc, Zn","Zinc, Zn",G,0.00309,0.00276
+12,"Zinc, Zn","Zinc, Zn",G,0.00453,0.00393
+20,"Zinc, Zn","Zinc, Zn",G,0.00397,0.002744
+9,"Zinc, Zn","Zinc, Zn",G,0.00012,0.0001067
+9,"Zinc, Zn","Zinc, Zn",G,0.00007,0.00006446
+11,"Zinc, Zn","Zinc, Zn",G,0.00024,0.0003498
+11,"Zinc, Zn","Zinc, Zn",G,0.00013,0.0000929
+11,"Zinc, Zn","Zinc, Zn",G,0.0002,0.000204
+11,"Zinc, Zn","Zinc, Zn",G,0.00018,0.0002112
+11,"Zinc, Zn","Zinc, Zn",G,0.00022,0.000245
+9,"Zinc, Zn","Zinc, Zn",G,0.00014,0.000114
+9,"Zinc, Zn","Zinc, Zn",G,0.00042,0.0002213
+9,"Zinc, Zn","Zinc, Zn",G,0.00016,0.00008534
+9,"Zinc, Zn","Zinc, Zn",G,0.00003,0.000002625
+20,"Zinc, Zn","Zinc, Zn",G,0.00312,0.001755
+20,"Zinc, Zn","Zinc, Zn",G,0.002,0.002144
+20,"Zinc, Zn","Zinc, Zn",G,0.0024,0.002236
+20,"Zinc, Zn","Zinc, Zn",G,0.00168,0.002258
+20,"Zinc, Zn","Zinc, Zn",G,0.00213,0.001854
+20,"Zinc, Zn","Zinc, Zn",G,0.00109,0.001354
+13,"Zinc, Zn","Zinc, Zn",G,0.00479,0.004194
+13,"Zinc, Zn","Zinc, Zn",G,0.00418,0.003848
+10,"Zinc, Zn","Zinc, Zn",G,0.0022,0.002226
+5,"Zinc, Zn","Zinc, Zn",G,0.00147,0.001177
+5,"Zinc, Zn","Zinc, Zn",G,0.00253,0.00295
+12,"Zinc, Zn","Zinc, Zn",G,0.00578,0.005071
+12,"Zinc, Zn","Zinc, Zn",G,0.00245,0.002334
+16,"Zinc, Zn","Zinc, Zn",G,0.00327,0.00278
+12,"Zinc, Zn","Zinc, Zn",G,0.0013,0.0012
+12,"Zinc, Zn","Zinc, Zn",G,0.0022,0.002176
+12,"Zinc, Zn","Zinc, Zn",G,0.005,0.005578
+16,"Zinc, Zn","Zinc, Zn",G,0.00276,0.003124
+16,"Zinc, Zn","Zinc, Zn",G,0.00327,0.003863
+16,"Zinc, Zn","Zinc, Zn",G,0.00337,0.003654
+16,"Zinc, Zn","Zinc, Zn",G,0.00054,0.0007399
+16,"Zinc, Zn","Zinc, Zn",G,0.00077,0.0006313
+16,"Zinc, Zn","Zinc, Zn",G,0.00059,0.0007243
+16,"Zinc, Zn","Zinc, Zn",G,0.00074,0.00056
+16,"Zinc, Zn","Zinc, Zn",G,0.00074,0.000526
+11,"Zinc, Zn","Zinc, Zn",G,0.00068,0.000712
+16,"Zinc, Zn","Zinc, Zn",G,0.00059,0.0006248
+16,"Zinc, Zn","Zinc, Zn",G,0.0007,0.000655
+16,"Zinc, Zn","Zinc, Zn",G,0.00065,0.0006349
+10,"Zinc, Zn","Zinc, Zn",G,0.00173,0.00157
+10,"Zinc, Zn","Zinc, Zn",G,0.00187,0.001773
+5,"Zinc, Zn","Zinc, Zn",G,0.00068,0.0006545
+5,"Zinc, Zn","Zinc, Zn",G,0.00158,0.001348
+13,"Zinc, Zn","Zinc, Zn",G,0.0078,0.004063
+13,"Zinc, Zn","Zinc, Zn",G,0.00376,0.003778
+13,"Zinc, Zn","Zinc, Zn",G,0.00699,0.005386
+13,"Zinc, Zn","Zinc, Zn",G,0.00381,0.005563
+1,"Zinc, Zn","Zinc, Zn",G,0.00097,0.0005989
+1,"Zinc, Zn","Zinc, Zn",G,0.003,0.003785
+1,"Zinc, Zn","Zinc, Zn",G,0.00221,0.002379
+1,"Zinc, Zn","Zinc, Zn",G,0.00323,0.00389
+1,"Zinc, Zn","Zinc, Zn",G,0.00258,0.002908
+1,"Zinc, Zn","Zinc, Zn",G,0.00387,0.003597
