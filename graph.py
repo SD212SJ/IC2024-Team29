@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.express as px
-df = pd.read_csv('really_really_filtered.csv')
+df = pd.read_csv('3Sums.csv')
 
 #summing the SR Mean by foodcategory id and the nutrient and putting them into new columns
 SReachcat = df.groupby(['food_category_id','SR Food description'])['SR Mean per 100g'].sum().reset_index()
